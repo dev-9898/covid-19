@@ -125,5 +125,3 @@ Possible enhancements:
 **Dev Rathod**
 
 ---
-
-If you want, I can also make a **professional GitHub README** (with badges, screenshots section, and better formatting) which looks impressive for placements since you are preparing for IT jobs.
